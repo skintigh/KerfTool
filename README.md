@@ -2,7 +2,7 @@
 ## Kerf Tool
 Tool to measure the kerf of a laser cutter to an accuracy of 0.00005 mm, or 50 nm -- the wavelegth of microwave radiation. It's also accurate to more practical measurements.
 "Kerf" is the width of a cut, typically the width of the saw blade, or in this case the width of the laser beam**.
-Knowing the kerf of the cut (which changes with ever lsawer cutter, with every material, and every color of every material) allows you to make more accurate cuts.
+Knowing the kerf of the cut (which changes with ever lawer cutter, with every material, and every color of every material) allows you to make more accurate cuts.
 
 ## Example Measurement
 Cut this tool out of black acrylic. Cut another copy of this tool out of white acrylic. Follow the instructions on each tool, write down the measurement, then do it a few more times and take an average just in case.
