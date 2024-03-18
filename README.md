@@ -10,7 +10,7 @@ Say you measured 0.18 mm for black and 0.15 mm for white.
 
 This is where it can get complicated. That measurement is the kerf of the entire laser beam, but you will almost never care about that... Maybe some tools want you to enter the entire kerf, but for others (like Inkscape) you only want 1/2 of the Kerf since you will only be using one side of the laser beam to cut something. Therefore you want 1/2 of that measurement, 1/2 kerf, which would be: 0.09mm kerf for black acrylic, 0.075mm for white acrylic.
 
-Note: a lot of online help will refer to the half kerf as the kerf, because they are artists I guess.
+Note: a lot of online help will refer to the half kerf as the "kerf," because they are artists I guess.
 
 ## Use of Measurement
 Enter the approriate setting as the kerf in your laser cutter software for the material you want to cut
