@@ -24,6 +24,8 @@ Cut your kerf-adjusted part, then measure it with calipers to verify the kerf se
 ## Acknowledgements
 I started this tool by mimicking an existing tool that... I will name and link once I find it in my notes... sorry.
 
+
+
 \* Achieving this level of accruacy will require a near-perfectly accurate tool to cut the Kerf Tool out of near-perfect material, preferably frictionless material, and operate the Kerf Tool in a near-perfectly clean environment on perfectly clean and symmetrical target, while wearing perfectly insulating gloves to prevent thermal expansion. Or regular tools and materials and conditions to make a practical tool.
 
 \** NOTE: unlike a saw, which essentially removes a vertical column of material, a laser removes a truncated conical section, as if the sawblade were tilted at an angle and then wrapped around a single point. For most cases, this is negligible and the kerf will basically act as a vertical cut (and if you're building a jewelry box, nobody sane will care about 0.1 mm of kerf at all). However, if you are cutting very fine details, say < 1 mm teeth on a gear, those gear will mesh **very differently** if they are both right-side-up vs flipping one upsaide down.
