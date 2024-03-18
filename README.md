@@ -17,7 +17,7 @@ Note: a lot of online help will refer to the half kerf as the "kerf," because th
 ## Use of Measurement
 Enter the approriate setting as the kerf in your laser cutter software for the material you want to cut.
 
-Or in Inkscape: set a "path effect" to **add** 1/2 kerf from the outside perimiter of objects and to **subtract** 1/2 kerf to the inside perimeter of holes you are cutting out. This means if you cut a donut shape, the outside of the donut is **larger** and te donut hole is **smaller**. When you cut it, the laser will remove a little more material and shrink the donut and enlarge the hole.
+Or in Inkscape: set a "path effect" to **add** 1/2 kerf from the outside perimiter of objects and to **subtract** 1/2 kerf to the inside perimeter of holes you are cutting out. This means if you cut a donut shape, the outside of the donut is **larger** and the donut hole is **smaller**. When you cut it, the laser will remove a little more material and shrink the donut and enlarge the hole.
 Cut it, then measure it with calipers to verify the kerf setting was correct.
 
 ## Acknowledgements
