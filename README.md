@@ -43,3 +43,4 @@ vs flipping one upside down so the slanted cuts complement each other:
 
 \gear1//gear2\
 
+Think of your involute gears as bevel gears with a very slight bevel, perhaps 1-5 degrees.
