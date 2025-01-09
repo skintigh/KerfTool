@@ -33,7 +33,7 @@ I started this tool by mimicking an existing tool that... I will name and link o
 
 \** NOTE: unlike a saw, which essentially removes a vertical column of material, a laser removes a truncated conical section, as if the sawblade were tilted at an angle and then wrapped around a single point. For most cases, this is negligible and the kerf will basically act as a vertical cut -- if you're building a jewelry box, nobody sane will care about 0.1 mm of kerf at all, never mind a fraction more of that in a slightly-slanted cut from the conical kerf. However, if you are cutting very fine details, say < 1 mm teeth on a gear, here kerf is critical for whether those gears mesh or jam or slip **and** the orientation of the cuts now matter. See my masterful diagram of a gear:
 
-\\|||||||/
+\\|||||||||||/
 
 Those gears will mesh **very differently** if they are both right-side-up with the points meshing
 
